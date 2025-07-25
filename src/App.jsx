@@ -170,9 +170,9 @@ function App() {
                   complex datasets.
                 </p>
                 <p>
-                  When I'm not coding, you can find me exploring new
-                  technologies, contributing to open-source projects, or
-                  enjoying outdoor activities.
+                  Outside of coding, I enjoy exploring new technologies, playing
+                  video games, and doing sports such as bouldering, badminton,
+                  and skiing.
                 </p>
               </div>
               <div className="about-stats">
